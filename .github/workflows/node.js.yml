@@ -10,7 +10,7 @@ on:
     branches: [ "master" ]
 
 jobs:
-  build:
+  build-deploy:
     runs-on: ubuntu-latest
     strategy:
       matrix:
@@ -24,12 +24,7 @@ jobs:
         node-version: ${{ matrix.node-version }}
         cache: 'npm'
     - run: npm ci
-    - run: npm run build --if-present
-  deploy:
-    name: Deploy
-    needs: build
-    runs-on: ubuntu-latest
-    steps:
+    - run: npm run build
     - name: Upload ftp
       uses: sebastianpopp/ftp-action@releases/v2
       with:

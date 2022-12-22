@@ -30,7 +30,7 @@ Available commands:
 `!getstarted`
 - Gift - Gifts card to another user.  
 `!gift [user], [category], [UID]`
-- [Inventory](inventory) - Displays your card inventory.  
+- [Inventory](basics/inventory) - Displays your card inventory.  
 `!inv [category], (query | subcategory | UID | @user ), (@user)`
 - Materials - Displays materials that you own.  
 `!materials [category]`
@@ -44,7 +44,7 @@ Available commands:
 `!notifications`
 - [Profile](profile) - Used to display/edit your profile.  
 `!profile (what to change), (category), (UID)`
-- [Roll](rolling) - Rolls a random character for claiming.  
+- [Roll](basics/rolling) - Rolls a random character for claiming.  
 `!roll [category]`
 - RollPings - Toggles roll pings.  
 `!rollpings`

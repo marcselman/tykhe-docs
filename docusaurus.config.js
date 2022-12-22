@@ -101,8 +101,8 @@ const config = {
                 to: '/docs/category/basics',
               },
               {
-                label: 'Buying & Selling',
-                to: '/docs/category/buying-selling',
+                label: 'Shop',
+                to: '/docs/category/shop',
               },
               {
                 label: 'Profiles',

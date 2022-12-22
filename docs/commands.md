@@ -24,11 +24,11 @@ Available commands:
 `!materials [category]`
 - Merge - Merges two cards to increase tier.  
 `!merge [category], [UID], [UID]`
-- [MyAffiliations](affiliations) - Displays affiliations that you own.  
+- [MyAffiliations](profiles/affiliations) - Displays affiliations that you own.  
 `!myaffiliations [category]`
 - MyBackgrounds - Displays backgrounds that you own.  
 `!mybackgrounds [category]`
-- [Notifications](notifications) - Toggles roll notifications.  
+- [Notifications](basics/notifications) - Toggles roll notifications.  
 `!notifications`
 - [Profile](profiles/profile) - Used to display/edit your profile.  
 `!profile (what to change), (category), (UID)`

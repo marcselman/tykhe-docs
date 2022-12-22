@@ -1,3 +1,7 @@
+---
+title: Search
+sidebar_position: 10
+---
 # How to use Search
 
 For visual guide, check the gif below. All inventory commands must be performed in Tykhe channels, or this DM. **Not making sense? Look for the example strings and copy them!**

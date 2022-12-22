@@ -1,4 +1,4 @@
-# Currency (Shopping and Selling)
+# Currency
 
 For visual guide, check the gif below.
 

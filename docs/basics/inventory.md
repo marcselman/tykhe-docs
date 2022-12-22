@@ -1,5 +1,6 @@
 ---
 title: Inventory
+sidebar_position: 2
 ---
 # Inventory Management
 

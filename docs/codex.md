@@ -1,3 +1,7 @@
+---
+title: Codex
+sidebar_position: 5
+---
 # Codex
 
 Using the Codex will allow you to cross check your inventory with all cards in Tykhe, allowing you to more easily determine what cards you own or are missing; out of a specific category, all subcategories to a category, or all cards in a subcategory.

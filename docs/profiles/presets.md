@@ -1,9 +1,15 @@
+---
+title: Presets
+sidebar_position: 3
+---
 # Profile Presets
 
 Profile presets are preset save slots used to store profile setups.
 All users start with 3, and you can buy 3 more (up to 6) via credits in the shop.
 
-`!shop upgrades` (`!th credits`)
+`!shop upgrades`
+
+The first upgrade costs 500, the next 1000 and the last 1500 credits.
 
 How to manage your profile save slots: **(Commands only usable in Tykhe DM.)**  
 `!profile [save | load | delete], [name]`
@@ -22,4 +28,4 @@ If your inputted [name] already exists, it will save your current profile to tha
 🅰️ Affiliation  
 🅱️ Background
 
-Type `!tykhehelp profile` to learn more about profiles.
+See [Profile Setup](profile) to learn more about profiles.

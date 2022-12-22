@@ -1,3 +1,7 @@
+---
+title: Crafting
+sidebar_position: 6
+---
 # Crafting
 
 For visual guide, check the gif below.

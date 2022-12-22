@@ -33,8 +33,16 @@ export default function Home() {
       title={`Hello from ${siteConfig.title}`}
       description="Description will go into a meta tag in <head />">
       <HomepageHeader />
-      <main>
-        <HomepageFeatures />
+      <main style={{
+        margin: 'auto',
+        maxWidth: '1000px',
+        padding: '40px'
+      }}>
+        <p>The Bridge of Unity is a multi-media multi-fandom community of impassioned fans sharing in what they love. The Bridge was born out of being the central hub point for Tykhe Discord Bot, a collaborative fan project which has evolved to be a steadfast community for folks and fans of all kind.</p>
+        <p>Tykhe is a collectible card game packaged inside of a Discord bot, enabling you to collect cards from your favorite franchising spanning Film, Television, Gaming, Mythology, and more.</p>
+        <p>This website contains unofficial documentation for Tykhe as a fast and easy reference.</p>
+        <p>This is an early development preview version.</p>
+        {/* <HomepageFeatures /> */}
       </main>
     </Layout>
   );

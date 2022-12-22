@@ -1,4 +1,8 @@
-# Profile Information
+---
+title: Setup
+sidebar_position: 1
+---
+# Profile Setup
 
 For visual guide, check the gif below.
 

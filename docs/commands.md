@@ -1,22 +1,10 @@
+---
+title: Commands
+sidebar_position: 11
+---
 # Commands
 Available commands:
-
-### [Affiliations](affiliations) 
-```jsx title="List the available affiliate categories."
-!affiliate
-```
-```jsx title="List the available affiliates in the category. Create an affiliation using cards and affiliation tokens."
-!affiliate [category]
-```
-```jsx title="List the affiliations that you obtained from !affiliate."
-!myaffiliations
-```
-### [Affinity](affiliations) 
-```jsx title="Reveals compatability with another player."
-!affinity [user]
-```
-
-- [Affiliate](affiliations) - Create an affiliation using cards and affiliation tokens.  
+- [Affiliate](profiles/affiliations) - Create an affiliation using cards and affiliation tokens.  
 `!affiliate [category]`
 - Affinity - Reveals compatability with another player.  
 `!affinity [user]`
@@ -42,7 +30,7 @@ Available commands:
 `!mybackgrounds [category]`
 - [Notifications](notifications) - Toggles roll notifications.  
 `!notifications`
-- [Profile](profile) - Used to display/edit your profile.  
+- [Profile](profiles/profile) - Used to display/edit your profile.  
 `!profile (what to change), (category), (UID)`
 - [Roll](basics/rolling) - Rolls a random character for claiming.  
 `!roll [category]`
@@ -52,13 +40,13 @@ Available commands:
 `!rolls`
 - [Search](search) - Searches global database for cards.  
 `!search [type], [category], (query | subcategory)`
-- [Sell](currency) - Sells specified card(s) for credits.  
+- [Sell](shop/currency) - Sells specified card(s) for credits.  
 `!sell [category], [UID], (UID)`
 - Settings - Customize server-side settings for Tykhe (for admins).  
 `!settings`
-- [Shop](currency) - Displays items available for purchase.  
+- [Shop](shop/currency) - Displays items available for purchase.  
 `!shop [type]`
 - TykheHelp - Detailed help for all Tykhe functions.  
 `!tykhehelp`
-- [Wallet](currency) - Displays your # of credits and Affiliation Tokens.  
+- [Wallet](shop/currency) - Displays your # of credits and Affiliation Tokens.  
 `!wallet`

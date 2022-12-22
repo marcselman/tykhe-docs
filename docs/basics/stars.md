@@ -1,3 +1,6 @@
+---
+sidebar_position: 2
+---
 # Star Levels and Merging
 
 For visual guide, check the gif below.

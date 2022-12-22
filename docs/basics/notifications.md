@@ -1,3 +1,7 @@
+---
+title: Notifications
+sidebar_position: 3
+---
 # Rolling Notifications
 
 `!notifications` toggle can be used to receive a DM every time you have restocked all three of your rolls.

@@ -1,3 +1,7 @@
+---
+title: Affiliations
+sidebar_position: 2
+---
 # Affiliations
 
 For visual guide, check the gif below.

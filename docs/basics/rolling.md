@@ -26,20 +26,20 @@ For visual guide, check the gif below. All rolling commands must be performed in
 
 |Name|Code|Cards|
 |:---|:---|---:|
-|DC|dc|2957|
+|DC|dc|2964|
 |Disney|d|1279|
 |Game of Thrones|got|492|
-|Gaming|g|2348|
+|Gaming|g|2375|
 |Horror|h|2110|
 |Lord of the Rings|lotr|186|
-|Marvel|m|4250|
-|Movies|mv|3371|
+|Marvel|m|4287|
+|Movies|mv|3434|
 |Mythology|myth|381|
-|Star Wars|sw|2356|
-|Television|tv|2495|
+|Star Wars|sw|2459|
+|Television|tv|2524|
 |Wizarding World|hp|373|
 
-The are currently a total of 22598 cards available.
+The are currently a total of 22864 cards available.
 
 ## Visual guide
 

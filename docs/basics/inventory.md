@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 # Inventory Management
 
-For Visual Guide, check the gif below. All inventory commands must be performed in `#tykhe-inventory` channels.
+For Visual Guide, check the gif below. All inventory commands must be performed in `#tykhe-commands` channels.
 
 `!inv` will list all the categories you own cards in as well as how many you own.  
 `!inv [cat]` will list all the cards you own in [cat] using react arrows to swap pages. They will be sorted by subcat.

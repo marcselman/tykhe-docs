@@ -98,15 +98,15 @@ const config = {
               },
               {
                 label: 'Basics',
-                to: '/docs/category/basics',
+                to: '/docs/basics/rolling',
               },
               {
                 label: 'Shop',
-                to: '/docs/category/shop',
+                to: '/docs/shop/currency',
               },
               {
                 label: 'Profiles',
-                to: '/docs/category/profiles',
+                to: '/docs/profiles/profile',
               },
             ],
           },
